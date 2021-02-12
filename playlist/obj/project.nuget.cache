@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mxnm80Iz4cXiDmvlFnknW8xLgUQr8y28YU+wODtJzFz0H7voaxY9MWQTtPvjMyIWfEE/b5jOACcqX+DcFg86IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renat\\source\\repos\\playlist\\playlist\\playlist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renat\\.nuget\\packages\\npgsql\\5.0.3\\npgsql.5.0.3.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
